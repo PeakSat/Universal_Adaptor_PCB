@@ -1,0 +1,32 @@
+### Footprint positions - created on 2024-11-11T12:53:46+0200 ###
+### Printed by KiCad version 8.0.6
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                               PosX       PosY       Rot  Side
+C1        KAF21KR71H105KU      CAPC2012X140N                     156.8750  -159.9000  180.0000  top
+FID1      Fiducial             Fiducial_0.5mm_Mask1mm             63.5750  -192.4000    0.0000  top
+FID2      Fiducial             Fiducial_0.5mm_Mask1mm             63.5750   -32.0000    0.0000  top
+FID3      Fiducial             Fiducial_0.5mm_Mask1mm            168.6000   -31.8750    0.0000  top
+IC1       TPS7B8633QDDARQ1     SOIC127P600X170-9N                154.1450  -154.8380  -90.0000  top
+J1        SSQ-126-03-G-D       SSQ-126-XX-YYY-D                   84.9980   -50.4010  180.0000  top
+J2        TSW-107-24-L-S       TSW-107-XX-YY-S                   138.8250  -182.2400   90.0000  top
+J3        Conn_01x01_Socket    Banana_Jack_1Pin                   98.4750   -23.2000    0.0000  top
+J4        Conn_01x01_Socket    Banana_Jack_1Pin                  117.2750   -23.2000    0.0000  top
+J5        Conn_01x01_Socket    Banana_Jack_1Pin                  136.0750   -23.2000    0.0000  top
+J6        Conn_02x02_Odd_Even  PinHeader_2x02_P2.54mm_Vertical   164.3000  -154.6500  180.0000  top
+J7        Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical   136.1000   -33.8250    0.0000  top
+J8        DF11-8DP-2DSA_24_    SHDR8W60P200_2X4_1000X500X690P     90.2750  -183.6500    0.0000  top
+J9        TSW-107-24-L-S       TSW-107-XX-YY-S                   154.3250  -182.2400   90.0000  top
+J10       Conn_01x04_Pin       PinHeader_1x04_P2.54mm_Vertical   166.1250   -55.9300    0.0000  top
+J11       Conn_02x03_Odd_Even  PinHeader_2x03_P2.54mm_Vertical   127.0000  -164.7000  -90.0000  top
+J12       Conn_02x02_Odd_Even  PinHeader_2x02_P2.54mm_Vertical    98.5750   -34.7500   90.0000  top
+J13       Conn_02x03_Odd_Even  PinHeader_2x03_P2.54mm_Vertical   114.2000  -164.7000  -90.0000  top
+J14       Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical    88.3187  -165.9000    0.0000  top
+J16       Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical    84.1375  -165.9000    0.0000  top
+J17       Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical    79.9562  -165.9000    0.0000  top
+J20       Conn_01x02_Pin       PinSocket_1x02_P2.54mm_Vertical    67.1000   -70.3000  -90.0000  top
+J21       Conn_01x02_Pin       PinSocket_1x02_P2.54mm_Vertical    67.1000   -63.5000  -90.0000  top
+J22       SSQ-126-03-G-D       SSQ-126-XX-YYY-D                   84.9980   -55.4810  180.0000  top
+J26       Conn_01x02_Pin       PinSocket_1x02_P2.54mm_Vertical    73.2600  -168.4500   90.0000  top
+S1        FSM4JH               FSM4JH                            103.1250  -181.5500    0.0000  top
+## End

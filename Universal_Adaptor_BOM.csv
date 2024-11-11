@@ -1,0 +1,15 @@
+Id;Designator;Footprint;Quantity;Designation;Supplier and ref
+1;J13,J11;PinHeader_2x03_P2.54mm_Vertical;2;Conn_02x03_Odd_Even;-
+2;J6,J12;PinHeader_2x02_P2.54mm_Vertical;2;Conn_02x02_Odd_Even;-
+3;J14,J17,J16,J7;PinHeader_1x02_P2.54mm_Vertical;4;Conn_01x02_Pin;-
+4;J26,J20,J21;PinSocket_1x02_P2.54mm_Vertical;3;Conn_01x02_Pin;-
+5;TP2,TP3,TP1,TP4;TestPoint_Pad_D2.0mm;4;TestPoint;-
+6;H7,H6,H8,H3,H5,H4,H1,H2;MountingHole_3.2mm_M3_DIN965_Pad;8;MountingHole_Pad;-
+7;J9,J2;TSW-107-XX-YY-S;2;TSW-107-24-L-S;https://gr.mouser.com/ProductDetail/Samtec/TSW-107-24-L-S?qs=rU5fayqh%252BE1QlBdD0gC6%2FQ%3D%3D
+8;J8;SHDR8W60P200_2X4_1000X500X690P;1;DF11-8DP-2DSA_24_;https://www.mouser.co.uk/ProductDetail/Hirose-Connector/DF11-8DP-2DSA24?qs=zOgoZG1CgI8RMZq1lgRQBg%3D%3D
+9;C1;CAPC2012X140N;1;KAF21KR71H105KU;https://www.mouser.co.uk/ProductDetail/KYOCERA-AVX/KAF21KR71H105KU?qs=Jm2GQyTW%2FbgoO162vt8JKQ%3D%3D
+10;J4,J5,J3;Banana_Jack_1Pin;3;Conn_01x01_Socket;-
+11;J10;PinHeader_1x04_P2.54mm_Vertical;1;Conn_01x04_Pin;-
+12;IC1;SOIC127P600X170-9N;1;TPS7B8633QDDARQ1;https://gr.mouser.com/ProductDetail/Texas-Instruments/TPS7B8633QDDARQ1?qs=KUoIvG%2F9IlY1VB%2FRxrIgew%3D%3D
+13;J1,J22;SSQ-126-XX-YYY-D;2;SSQ-126-03-G-D;https://www.mouser.co.uk/ProductDetail/Samtec/SSQ-126-03-G-D?qs=rU5fayqh%252BE0aQXkQRkY4SA%3D%3D
+14;S1;FSM4JH;1;FSM4JH;https://www.mouser.co.uk/ProductDetail/TE-Connectivity-Alcoswitch/FSM4JH?qs=g%252BEszo6zu8OwVWrHD2r3Rw%3D%3D
